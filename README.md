@@ -1,6 +1,6 @@
 <p align="center">
   Do you want to build your own Boss with unique features only for your server?
-  <a href="https://mineacademy.org/gh-join">
+  <a href="http://mineacademy.net/">
     <img src="https://i.imgur.com/SuIyaDV.png" />
   </a>
 </p>
